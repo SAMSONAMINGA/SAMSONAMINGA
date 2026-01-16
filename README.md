@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SANGARA SAMSON
 🔭 I’m currently working on<br>             Personal dashboard<br>             Os& Distribution<br>🌱 I’m currently learning<br>               API integraion<br>               Rest API<br>               Rust<br>               node.js<br>⚡ Fun fact:<br>             Lifes fun when you can create your problems away
 
 
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SAMSONAMINGA&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMSONAMINGA&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+ Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SAMSONAMINGA&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
