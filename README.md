@@ -1,5 +1,5 @@
 # 💫 SANGARA SAMSON
-🔭 I’m currently working on<br>             Personal dashboard<br>             Os& Distribution<br>🌱 I’m currently learning<br>               API integraion<br>               Rest API<br>               Rust<br>               node.js<br>⚡ Fun fact:<br>             Whaaaaaaaat
+🔭 I’m currently working on<br>             Personal dashboard<br>             Os& Distribution<br>🌱 I’m currently learning<br>               API integraion<br>               Rest API<br>               Rust<br>               node.js<br>⚡ Fun fact:<br>             zim (WHAAAAAAAAAAAT)
 
 
 ## 🌐 Socials:
